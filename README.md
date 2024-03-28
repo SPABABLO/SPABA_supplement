@@ -1,5 +1,11 @@
 # SPABA_supplement
-Here, we present supplementary numerical experiments for our paper. 
+Here, we provide the supplemental results for the numerical experiments in our paper and the revised manuscript.
+
+$\textbf{Revised Manuscript}$
+
+In response to the suggestions from the reviewers, we have provided a revised manuscript, detailed in "SPABA__revised_manuscript.pdf".
+
+$\textbf{Numerical Experiments}$
 
 We conducted ten repeated experiments for each of the three numerical experiments discussed in the paper, namely: data hypercleaning on the MNIST dataset, hyperparameter selection on the covtype dataset, and hyperparameter selection on the IJCNN1 dataset, providing their variance results. 
 The results of these experiments are available in separate JPG files, with file names composed of the type of numerical experiment and the dataset used. 
